@@ -1,1 +1,7 @@
-DevOps in the software devleopment lifecycle
+DevOps in the software devleopment lifecycle.
+
+DevOps matters in the software development lifecycle because it gets developers, 
+and operations working together instead of passing work back and forth. 
+Automated builds and tests catch bugs early, so they're cheaper and easier to fix. 
+It also lets teams release smaller updates more often, 
+and a CI pipeline like GitHub Actions checks every push so the main branch stays healthy.
