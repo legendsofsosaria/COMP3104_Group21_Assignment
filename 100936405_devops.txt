@@ -4,3 +4,7 @@ COMP 3104 is the DevOps course I'm taking this term.
 So far we've worked with Git and GitHub, including branches and pull requests, 
 and we're getting into CI/CD with GitHub Actions. 
 There's a weekly class exercise and quiz, and this repo is for our group assignment on version control.
+
+The tools we've used so far are Git, GitHub, and GitHub Actions. For this assignment we use a per-developer branching strategy, 
+where everyone works on their own branch and merges into main with a pull request. 
+It's been a good way to practice merge conflicts and CI in a safe space.
