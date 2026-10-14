@@ -1,1 +1,6 @@
-comp 3104 DevOps
+COMP 3104 DevOps
+
+COMP 3104 is the DevOps course I'm taking this term. 
+So far we've worked with Git and GitHub, including branches and pull requests, 
+and we're getting into CI/CD with GitHub Actions. 
+There's a weekly class exercise and quiz, and this repo is for our group assignment on version control.
