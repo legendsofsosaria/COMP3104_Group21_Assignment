@@ -1,0 +1,4 @@
+COMP 3104 DevOps
+CRN 18342
+Class Time: 7 PM - 10 PM (Atlantic Time)
+Professor: Pritesh Patel
