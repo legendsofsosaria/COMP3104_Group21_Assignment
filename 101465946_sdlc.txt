@@ -1,0 +1,5 @@
+The importance of DevOps in the software development lifecycle
+
+DevOps is like the glue that holds the development and operations teams together.
+
+
