@@ -1,0 +1,20 @@
+The importance of DevOps in the software development lifecycle
+
+DevOps is like the glue that holds the development and operations teams together.
+
+When applied correctly DevOps can:
+- Reduce IT overhead
+- Remove mundane manual tasks
+- Enforce best security
+- Expedite delivery of products
+- Improve the communication and collaboration across teams
+
+DevOps Best Practices:
+1) Agile Project Management
+2) Shift left with CI/CD
+3) Build with the right tools
+4) Implement automation
+5) Monitor the DevOps pipeline and applications
+6) Observability
+7) Gather continuous feedback
+8) Change the culture
