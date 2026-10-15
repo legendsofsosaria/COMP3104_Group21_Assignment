@@ -9,3 +9,12 @@ When applied correctly DevOps can:
 - Expedite delivery of products
 - Improve the communication and collaboration across teams
 
+DevOps Best Practices:
+1) Agile Project Management
+2) Shift left with CI/CD
+3) Build with the right tools
+4) Implement automation
+5) Monitor the DevOps pipeline and applications
+6) Observability
+7) Gather continuous feedback
+8) Change the culture
