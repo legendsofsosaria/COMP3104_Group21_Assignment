@@ -2,3 +2,9 @@ COMP 3104 DevOps
 CRN 18342
 Class Time: 7 PM - 10 PM (Atlantic Time)
 Professor: Pritesh Patel
+
+DevOps GitHub:
+https://github.com/legendsofsosaria/COMP3104
+
+Project GitHub:
+https://github.com/legendsofsosaria/COMP3104_Group21_Assignment
