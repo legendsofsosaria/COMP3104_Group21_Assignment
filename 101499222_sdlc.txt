@@ -1,2 +1,2 @@
-"SDLC" 
-"DevOps is important in the software development lifecycle because bringing automation into development speeds up testing and deployment." 
+SDLC
+DevOps is important in the software development lifecycle because bringing automation into development speeds up testing and deployment.
