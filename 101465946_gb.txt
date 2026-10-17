@@ -1,0 +1,20 @@
+George Brown Polytechnic
+Address: Casa Loma Campus - 160 Kendal Avenue, Toronto, ON M5R 1M3
+
+Program:
+T197 - Computer Programming & Analysis
+Semester 5
+
+Projects:
+- KitchenSync (Currently in development)
+- Kinook (Currently in development)
+- Legends of Sosaria (ongoing) 
+- Focus Fae (Completed)
+- Scorpio (Completed)
+- Open Ticket System (Completed)
+
+Portfolio:
+https://legendsofsosaria.github.io/Portfolio/
+
+GitHub:
+https://github.com/legendsofsosaria
