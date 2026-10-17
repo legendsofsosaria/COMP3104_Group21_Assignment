@@ -1,1 +1,2 @@
 "COMP3104 DevOps" 
+"COMP3104 DevOps is a George Brown Polytechnic course taught by Pritesh Patel" 
