@@ -1,0 +1,21 @@
+What is the SDLC?
+
+The Software Development Life Cycle is a process is used to plan, develop, test, and maintain software applications.
+
+It helps teams organize work, understand project requirements, and create software that meets user needs.\
+
+SDLC Stages:
+    1. Planning:
+       Identifying project goals, resources, and requirements
+    2. Analysis:
+       Understanding what users need from the software
+    3. Design:
+       Planing the software's structure and functionality
+    4. Development:
+       Writing the code to build the application
+    5. Testing:
+       Checking for bugs and ensuring the software works
+    6. Deployment:
+       Releasing the software for users
+    7. Maintenance:
+       Fixing issues and improving the software after release
