@@ -19,3 +19,16 @@ SDLC Stages:
        Releasing the software for users
     7. Maintenance:
        Fixing issues and improving the software after release
+
+Why DevOps is important to the SDLC
+
+DevOps play an important role in the Software Development Life Cycle because it encourages collaboration between software devs and IT operation teams
+
+Teams usually work separately which can lead to communication issues and slower software releases.
+DevOps help address these challenges through the promotion of teamwork, automation, and continuous feedback throughout the development process.
+
+Examples:
+    - Automated testing allows developers to identify problems earlier
+    - Continuous Integration (CI) helps teams combine their work more frequently
+
+These practices improve software quality, reduce errors, and make the development process more efficient.
