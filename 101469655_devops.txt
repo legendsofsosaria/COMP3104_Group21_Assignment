@@ -1,0 +1,50 @@
+What is DevOps?
+
+DevOps combines software Development and IT operations to improve how software is developed, tested, and delivered.
+
+Software [ Dev ]elopment + IT [ Op ]erations = DevOps
+
+COMP3104 is a course offered to students in the Computer Programming and Analysis program and George Brown Polytechnic.
+
+Offered during: Year 3, Semester 5
+
+The course introduces students to DevOps practices and tools that support software development.
+The course focuses on version control, automation, continuous integration, and collaboration between developers.
+
+Students gain experience using tools such as Git and GitHub to manage code, track changes, and work together on software projects.
+
+Git and GitHub
+
+Git:
+    - a version control system
+    - allows developers to track changes made to code over time
+    - helps developers manage different versions of a project
+    - makes it easier to collaborate with other developers
+
+GitHub:
+    - a platform that hosts Git repositories online
+    - allows multiple developers to collaborate and contribute to the same project
+
+Important Git concepts:
+    - Repositories: store project files and version history
+    - Branches: allows developers to work on changes independently without affecting the main branch
+    - Commits: saves parts of changes that are made within the project
+    - Pull Requests: allows developers to propose, review, and merge changes into another branch
+
+Continuous Integration and Continuous Delivery (CI/CD)
+
+A practice in DevOps that helps automate parts of the software development process.
+
+Continuous Integration (CI):
+    - involves developers frequently combining their changes into a shared repository
+    - automated checks and tests help identify errors before changes become part of the main project
+
+Continuous Delivery (CD):
+    - ensures that software changes are tested and prepared for release
+
+GitHub Actions:
+    - an automation tool that allows developers to create workflows
+    - these workflows run when certain events occurs
+    - pushing commits or opening pull requests are examples of events
+
+It is important to understand these concepts for software development team to be successful!

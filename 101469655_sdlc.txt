@@ -1,0 +1,44 @@
+What is the SDLC?
+
+The Software Development Life Cycle is a process is used to plan, develop, test, and maintain software applications.
+
+It helps teams organize work, understand project requirements, and create software that meets user needs.\
+
+SDLC Stages:
+    1. Planning:
+       Identifying project goals, resources, and requirements
+    2. Analysis:
+       Understanding what users need from the software
+    3. Design:
+       Planing the software's structure and functionality
+    4. Development:
+       Writing the code to build the application
+    5. Testing:
+       Checking for bugs and ensuring the software works
+    6. Deployment:
+       Releasing the software for users
+    7. Maintenance:
+       Fixing issues and improving the software after release
+
+Why DevOps is important to the SDLC
+
+DevOps play an important role in the Software Development Life Cycle because it encourages collaboration between software devs and IT operation teams
+
+Teams usually work separately which can lead to communication issues and slower software releases.
+DevOps help address these challenges through the promotion of teamwork, automation, and continuous feedback throughout the development process.
+
+Examples:
+    - Automated testing allows developers to identify problems earlier
+    - Continuous Integration (CI) helps teams combine their work more frequently
+
+These practices improve software quality, reduce errors, and make the development process more efficient.
+
+Real World Examples: A team developing a mobile application
+
+    - Developers use Git to work on different features using separate branches
+    - When a feature is complete, they push their changes onto GitHub and create a pull request for review
+    - GitHub Actions can automatically run tests and checks if changes introduce problems
+    - If tests pass and changes are approved, the team can merge them into the main branch
+    - After deployment, the team can monitor the application, identify issues, and make improvements based on user feedback
+
+The integration of DevOps practices throughout the SDLC makes it so teams can release updates more consistently, delete problems earlier, and maintain better communication between development and operations.
