@@ -1,0 +1,14 @@
+What is DevOps?
+
+DevOps combines software Development and IT operations to improve how software is developed, tested, and delivered.
+
+Software [ Dev ]elopment + IT [ Op ]erations = DevOps
+
+COMP3104 is a course offered to students in the Computer Programming and Analysis program and George Brown Polytechnic.
+
+Offered during: Year 3, Semester 5
+
+The course introduces students to DevOps practices and tools that support software development.
+The course focuses on version control, automation, continuous integration, and collaboration between developers.
+
+Students gain experience using tools such as Git and GitHub to manage code, track changes, and work together on software projects.
