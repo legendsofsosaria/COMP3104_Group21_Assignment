@@ -30,3 +30,21 @@ Important Git concepts:
     - Branches: allows developers to work on changes independently without affecting the main branch
     - Commits: saves parts of changes that are made within the project
     - Pull Requests: allows developers to propose, review, and merge changes into another branch
+
+Continuous Integration and Continuous Delivery (CI/CD)
+
+A practice in DevOps that helps automate parts of the software development process.
+
+Continuous Integration (CI):
+    - involves developers frequently combining their changes into a shared repository
+    - automated checks and tests help identify errors before changes become part of the main project
+
+Continuous Delivery (CD):
+    - ensures that software changes are tested and prepared for release
+
+GitHub Actions:
+    - an automation tool that allows developers to create workflows
+    - these workflows run when certain events occurs
+    - pushing commits or opening pull requests are examples of events
+
+It is important to understand these concepts for software development team to be successful!
