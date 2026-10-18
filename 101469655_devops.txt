@@ -12,3 +12,21 @@ The course introduces students to DevOps practices and tools that support softwa
 The course focuses on version control, automation, continuous integration, and collaboration between developers.
 
 Students gain experience using tools such as Git and GitHub to manage code, track changes, and work together on software projects.
+
+Git and GitHub
+
+Git:
+    - a version control system
+    - allows developers to track changes made to code over time
+    - helps developers manage different versions of a project
+    - makes it easier to collaborate with other developers
+
+GitHub:
+    - a platform that hosts Git repositories online
+    - allows multiple developers to collaborate and contribute to the same project
+
+Important Git concepts:
+    - Repositories: store project files and version history
+    - Branches: allows developers to work on changes independently without affecting the main branch
+    - Commits: saves parts of changes that are made within the project
+    - Pull Requests: allows developers to propose, review, and merge changes into another branch
