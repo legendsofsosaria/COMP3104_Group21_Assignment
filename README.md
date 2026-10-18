@@ -4,6 +4,7 @@
 - **Leader:** Elizabeth House (101465946) - [GitHub](https://github.com/legendsofsosaria)
 - **Member:** Zelda Pelletier Youngs (100936405) - [GitHub](https://github.com/HylianQueen)
 - **Member:** Carrie Arevalo (101469655) - [GitHub](https://github.com/pallabok)
+- **Member:** Khiara Mercado (101499222) - [GitHub](https://github.com/mochiarah)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
